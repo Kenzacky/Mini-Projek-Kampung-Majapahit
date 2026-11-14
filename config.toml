@@ -1,0 +1,13 @@
+# Tema Majapahit Heritage: terakota, emas, krem.
+# Dikunci terang agar tampilan konsisten di perangkat yang memakai mode gelap.
+[theme]
+base = "light"
+primaryColor = "#8B3A2B"
+backgroundColor = "#FAF8F5"
+secondaryBackgroundColor = "#F3ECE5"
+textColor = "#2B1F1A"
+
+[server]
+# Menonaktifkan pengumpulan statistik penggunaan
+[browser]
+gatherUsageStats = false
